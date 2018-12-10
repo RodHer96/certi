@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=SV, ST=SV, L=SanSalvador, O=UES, OU=COS115, CN=UES CA/name=EasyRSA/emailAddress=cos@cos.com
+        Validity
+            Not Before: Dec 10 14:58:22 2018 GMT
+            Not After : Dec  7 14:58:22 2028 GMT
+        Subject: C=SV, ST=SV, L=SanSalvador, O=UES, OU=COS115, CN=zabbix/name=EasyRSA/emailAddress=cos@cos.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:dc:47:f0:7d:15:5e:ce:3d:51:55:9b:40:99:45:
+                    a3:4f:18:19:1c:bf:fe:7a:f6:e5:d6:e8:e4:8d:99:
+                    b1:bc:1b:91:01:7d:c9:99:7d:f8:d6:b4:91:b1:32:
+                    52:a3:77:3a:10:94:61:31:4d:62:a0:96:0a:f5:a5:
+                    b6:59:a0:01:c8:fc:eb:1a:44:67:fb:7d:25:05:6e:
+                    ad:c7:79:4d:ea:f9:a7:77:45:c3:75:60:d2:a1:99:
+                    4e:45:9f:06:0b:1e:1a:3a:5c:1b:e6:66:58:2a:64:
+                    37:60:51:b0:31:f5:8b:33:5b:56:1a:69:13:1a:ee:
+                    53:1b:2c:c6:87:d3:ac:49:23:6e:c4:4c:10:0d:e5:
+                    a3:59:1b:0c:f3:27:8d:75:9e:1e:e0:0f:06:de:5c:
+                    59:f8:c0:14:b1:41:84:6c:b6:26:1a:ab:3d:a1:7d:
+                    ab:0d:fc:f5:3a:37:ed:3b:bf:f2:ca:f0:b2:99:09:
+                    bb:c1:db:d9:1e:b1:97:5b:0b:de:e9:ad:3e:dd:bb:
+                    55:3a:56:0c:c9:8d:7c:7e:0d:1a:0f:3f:ed:a5:f0:
+                    68:7f:60:e2:5f:b5:7b:f7:f7:8e:e9:48:bc:af:e5:
+                    08:79:c1:99:2a:62:46:3f:6c:8d:b2:df:33:1c:6e:
+                    b3:ab:3a:27:6b:dd:93:33:10:d3:16:e6:ce:f9:07:
+                    6d:27
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                64:86:19:2D:61:3E:2A:0B:39:9A:A9:06:0E:FE:95:D6:CC:B6:EB:86
+            X509v3 Authority Key Identifier: 
+                keyid:6D:D1:BF:0D:0A:7F:FF:BD:D6:68:C3:EA:00:A4:44:75:FD:BB:5A:E2
+                DirName:/C=SV/ST=SV/L=SanSalvador/O=UES/OU=COS115/CN=UES CA/name=EasyRSA/emailAddress=cos@cos.com
+                serial:E2:50:FC:09:54:E2:73:EE
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:zabbix
+    Signature Algorithm: sha256WithRSAEncryption
+         25:d0:2d:5a:d6:55:0c:0f:6f:94:3e:d8:1a:c5:0e:c8:f7:70:
+         bb:95:91:5e:95:22:f9:ab:fa:b4:3c:05:3a:41:08:c9:e1:9c:
+         91:53:b1:27:50:bc:a4:60:ec:85:43:fd:cf:f4:96:17:cd:6b:
+         51:3f:fe:bf:e5:fd:6f:be:df:9f:77:28:1f:90:83:ce:45:e9:
+         9b:04:08:43:11:89:f5:15:61:36:58:d0:2e:90:9d:2e:97:b3:
+         36:c7:c8:10:34:b1:18:2c:40:f2:b4:55:c3:42:ae:cf:6b:e4:
+         5f:fd:49:2e:76:6c:92:4b:78:84:c0:55:6a:4a:45:93:69:7c:
+         25:16:5c:6b:04:20:cc:49:7a:1c:f5:f5:eb:ab:f4:87:84:5b:
+         a7:34:37:1d:2b:49:0b:d9:64:ea:c9:fb:8d:a4:8b:b3:3e:18:
+         ed:56:7e:24:4f:1c:31:d1:bd:df:3e:7a:8a:73:27:2f:33:0f:
+         78:41:aa:e0:94:8c:09:e7:4b:30:aa:cc:b1:f6:cf:00:98:1e:
+         83:0e:04:18:1f:7d:44:7a:7e:17:e9:90:3f:ea:15:16:ae:5e:
+         d9:9b:b4:d0:34:70:c9:28:3b:64:9c:96:7b:39:75:e6:99:3a:
+         fd:ce:15:0d:b8:ae:b5:25:eb:c2:ab:7d:83:73:37:8c:90:ba:
+         27:98:fb:7f
+-----BEGIN CERTIFICATE-----
+MIIE8zCCA9ugAwIBAgIBBDANBgkqhkiG9w0BAQsFADCBjjELMAkGA1UEBhMCU1Yx
+CzAJBgNVBAgTAlNWMRQwEgYDVQQHEwtTYW5TYWx2YWRvcjEMMAoGA1UEChMDVUVT
+MQ8wDQYDVQQLEwZDT1MxMTUxDzANBgNVBAMTBlVFUyBDQTEQMA4GA1UEKRMHRWFz
+eVJTQTEaMBgGCSqGSIb3DQEJARYLY29zQGNvcy5jb20wHhcNMTgxMjEwMTQ1ODIy
+WhcNMjgxMjA3MTQ1ODIyWjCBjjELMAkGA1UEBhMCU1YxCzAJBgNVBAgTAlNWMRQw
+EgYDVQQHEwtTYW5TYWx2YWRvcjEMMAoGA1UEChMDVUVTMQ8wDQYDVQQLEwZDT1Mx
+MTUxDzANBgNVBAMTBnphYmJpeDEQMA4GA1UEKRMHRWFzeVJTQTEaMBgGCSqGSIb3
+DQEJARYLY29zQGNvcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDcR/B9FV7OPVFVm0CZRaNPGBkcv/569uXW6OSNmbG8G5EBfcmZffjWtJGxMlKj
+dzoQlGExTWKglgr1pbZZoAHI/OsaRGf7fSUFbq3HeU3q+ad3RcN1YNKhmU5FnwYL
+Hho6XBvmZlgqZDdgUbAx9YszW1YaaRMa7lMbLMaH06xJI27ETBAN5aNZGwzzJ411
+nh7gDwbeXFn4wBSxQYRstiYaqz2hfasN/PU6N+07v/LK8LKZCbvB29kesZdbC97p
+rT7du1U6VgzJjXx+DRoPP+2l8Gh/YOJftXv3947pSLyv5Qh5wZkqYkY/bI2y3zMc
+brOrOidr3ZMzENMW5s75B20nAgMBAAGjggFYMIIBVDAJBgNVHRMEAjAAMC0GCWCG
+SAGG+EIBDQQgFh5FYXN5LVJTQSBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0O
+BBYEFGSGGS1hPioLOZqpBg7+ldbMtuuGMIHDBgNVHSMEgbswgbiAFG3Rvw0Kf/+9
+1mjD6gCkRHX9u1rioYGUpIGRMIGOMQswCQYDVQQGEwJTVjELMAkGA1UECBMCU1Yx
+FDASBgNVBAcTC1NhblNhbHZhZG9yMQwwCgYDVQQKEwNVRVMxDzANBgNVBAsTBkNP
+UzExNTEPMA0GA1UEAxMGVUVTIENBMRAwDgYDVQQpEwdFYXN5UlNBMRowGAYJKoZI
+hvcNAQkBFgtjb3NAY29zLmNvbYIJAOJQ/AlU4nPuMBMGA1UdJQQMMAoGCCsGAQUF
+BwMCMAsGA1UdDwQEAwIHgDARBgNVHREECjAIggZ6YWJiaXgwDQYJKoZIhvcNAQEL
+BQADggEBACXQLVrWVQwPb5Q+2BrFDsj3cLuVkV6VIvmr+rQ8BTpBCMnhnJFTsSdQ
+vKRg7IVD/c/0lhfNa1E//r/l/W++3593KB+Qg85F6ZsECEMRifUVYTZY0C6QnS6X
+szbHyBA0sRgsQPK0VcNCrs9r5F/9SS52bJJLeITAVWpKRZNpfCUWXGsEIMxJehz1
+9eur9IeEW6c0Nx0rSQvZZOrJ+42ki7M+GO1WfiRPHDHRvd8+eopzJy8zD3hBquCU
+jAnnSzCqzLH2zwCYHoMOBBgffUR6fhfpkD/qFRauXtmbtNA0cMkoO2Sclns5deaZ
+Ov3OFQ24rrUl68KrfYNzN4yQuieY+38=
+-----END CERTIFICATE-----
